@@ -17,6 +17,3 @@
 # 🏫school
 [![amaaiza's 42 stats](https://badge.mediaplus.ma/kettlebells/amaaiza)](https://github.com/oakoudad/badge42)
 
-# 📊GitHub Stats :
-![otiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=otiza&show_icons=true&theme=transparent)
-
