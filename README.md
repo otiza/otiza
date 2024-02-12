@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**otiza/otiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiza/) 
+### 🛠 &nbsp;Tech Stack (mostly)
 
-Here are some ideas to get you started:
+![TS](https://img.shields.io/badge/Typescript-%236DB33F.svg?style=for-the-badge&logo=Typescript&logoColor=white)
+![NEST](https://img.shields.io/badge/nestjs-%236DB33F.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%236DB33F.svg?style=for-the-badge&logo=docker&logoColor=white&color=blue)
+![Postgresql](https://img.shields.io/badge/postgres-%236DB33F.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=blue)
+![Python](https://img.shields.io/badge/python-%236DB33F.svg?style=for-the-badge&logo=python&logoColor=white&color=yellow)
+![nodeJS](https://img.shields.io/badge/node.JS-%236DB33F.svg?style=for-the-badge&logo=node.js&logoColor=black&color=green)
+![ODOO](https://img.shields.io/badge/odoo-%236DB33F.svg?style=for-the-badge&logo=odoo&logoColor=purple&color=black&)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+# 🏫school
+[![amaaiza's 42 stats](https://badge.mediaplus.ma/kettlebells/amaaiza)](https://github.com/oakoudad/badge42)
+
+# 📊GitHub Stats :
+![otiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=otiza&show_icons=true&theme=transparent)
+
