@@ -17,5 +17,3 @@
 # 🏫school
 [![amaaiza's 42 stats](https://badge.mediaplus.ma/kettlebells/amaaiza)](https://github.com/oakoudad/badge42)
 
-# HACKERRANK
-[hackerrank](<iframe src="https://hackerrank-badge.herokuapp.com/onlytiza?s=1" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>)
